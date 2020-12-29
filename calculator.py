@@ -4,3 +4,7 @@ def add(a, b);
 
 def subtrace(a, b);
 	return a-b
+
+def multiply(a, b);
+	return a*b
+
